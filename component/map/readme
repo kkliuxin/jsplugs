@@ -1,0 +1,4 @@
+插件说明：依赖echarts的地图渲染插件。
+注意：map-echart的引入 需要按照required.js的引入模式引入；
+	在此实例中，本人就直接在map.jsp中引入了，此方式并不能实现效果；
+	如要直接引入，请自行改写map-echart。

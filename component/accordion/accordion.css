@@ -1,0 +1,82 @@
+@charset "utf-8";
+.item_box {
+	width: 100%;
+	padding: 0px 0px 82px 0px;
+	overflow: hidden;
+}
+
+.item_box_wp {
+	width: 1180px;
+	margin: 0 auto;
+}
+
+.box10 {
+	margin: 2.5% 0;
+	height: 80%;
+}
+
+.voice_2 {
+	width: 1200px;
+	position: relative;
+}
+
+.voice_2 ul li {
+	float: left;
+	display: inline;
+	height: 735px;
+	color: #fff;
+	cursor: pointer;
+	position: relative;
+	border-radius: 10px;
+	box-shadow: inset 0px 0px 10px #fff;
+}
+
+.voice_2 .fold {
+	width: 100px;
+	height: 100%;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.voice_2 .fold .txt {
+	font-size: 24px;
+	display: block;
+	width: 25px;
+	font-weight: normal;
+	margin: 38px;
+	line-height: 25px;
+	position: absolute;
+    bottom: 50px;
+}
+
+.voice_2 .unfold {
+	width: 680px;
+	height: 100%;
+	display: none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+ 
+
+.solid {
+	height: 15px;
+	background: #6bc30d;
+	width: 15px;
+	float: left;
+	margin: 10px;
+	border-radius: 100%;
+}
+
+.hollow {
+	height: 10px;
+	border: 2px solid #6bc30d;
+	width: 10px;
+	float: left;
+	margin: 10px;
+	border-radius: 100%;
+	font-size:20px;
+}
+ 
